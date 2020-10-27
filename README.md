@@ -36,5 +36,11 @@ screen -r "INSTANCE NAME"
 ## API-Key
 If you want to use my APP, you will need a license key, so contact with me if you are interested in my application.
 
+## Contact
+Teamspeak
+```jointspeak.pl```
+Discord
+```NeaK#9340```
+
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
