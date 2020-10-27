@@ -1,0 +1,30 @@
+{
+  "_comment": "INSTANCES NICKNAMES",
+  "nickname": "🌿  JTS🌿 NeaK's BOT",
+  "nickname1": "🌿  JTS🌿 NeaK's BOT1",
+  "nick_censure": "🌿  NeaK's BOT🌿 Checker",
+  "nick_test": "🌿  NeaK's BOT🌿 Tester",
+  "nick_admin": "🌿  NeaK's BOT🌿 Admin",
+  "nick_channels": "🌿  NeaK's BOT🌿 Channels",
+  "nick_giveaway": "🌿  NeaK's BOT🌿 Giveaway",
+
+  "_comment1": "LOGIN TO YOUR SERVER",
+  "host": "127.0.0.1",
+  "port": 10011,
+  "user": "serveradmin",
+  "password": "password",
+  "sid": "1",
+
+  "_comment2": "PLUGINS CONFIG",
+  "grafik_name": "[cspacer]• TEST Grafik NeaK •",
+  "grafik_channel_id": 69716,
+  "grafik_admins": ["Malina :D", "Mała Kaczuszka", "Dr Joint", "avalage2k", "Shroudi", "Rama", ".acey"],
+  "grafik_owners": ["Ayako Hitoshi", "MrDeuo", "Agent Reo"],
+  "channel_urlop": "[U] NeaK [urlop]",
+  "urlop_desc": "[center][img]https://ftp.jointspeak.pl/img/adminurlop.png[/img][/center]",
+  "admin_dbids": ["142398", "142397", "147330", "146052", "147358",
+    "159157", "147796", "142667", "150988", "144279", "170575"],
+  "levels_ids": ["1556", "1557", "1558", "1539", "1541", "1542", "1543", "1544", "1545", "1546", "1547", "1548", "1549",
+    "1550", "1551", "1552", "1553", "1554"],
+  "giveaway_groups": ["1546", "1547", "1548", "1549", "1550", "1551", "1552", "1553", "1554"]
+}
