@@ -42,5 +42,8 @@ Teamspeak
 Discord
 ```NeaK#9340```
 
+## Information
+This APP is created for specified teamspeak server so if you want to change something in source code, just contact with me.
+
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
