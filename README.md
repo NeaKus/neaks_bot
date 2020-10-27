@@ -17,7 +17,6 @@ sudo apt install software-properties-common
 mkdir ~/neaks_bot
 cd ~/neaks_bot
 git clone "https://github.com/NeaKus/neaks_bot.git" ./
-python3.8 -m pip install -r requirements.txt
 chmod +x ./main_menu
 ```
 
