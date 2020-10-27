@@ -14,9 +14,6 @@ Click the **wiki** button for documentation <3
 ```bash
 sudo apt update
 sudo apt install software-properties-common
-sudo add-apt-repository ppa:deadsnakes/ppa # When prompted press Enter to continue
-sudo apt install python3.8
-sudo apt-get install pip3
 mkdir ~/neaks_bot
 cd ~/neaks_bot
 git clone "https://github.com/NeaKus/neaks_bot.git" ./
