@@ -39,6 +39,7 @@ If you want to use my APP, you will need a license key, so contact with me if yo
 ## Contact
 Teamspeak
 ```jointspeak.pl```
+
 Discord
 ```NeaK#9340```
 
