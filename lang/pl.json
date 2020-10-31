@@ -1,0 +1,19 @@
+{
+  "_comment": "CENSURE",
+  "bad_name": "WULGARNA NAZWA!",
+
+  "_comment1": "CHANNEL_ZONES",
+  "channel_prefix": "Kanał",
+  "hello": "Cześć",
+  "pw_message": "Utworzyłem ci kanał, pamiętaj, że jeśli nikogo w tym kanale nie będzie, zostanie on [u]usunięty automatycznie![/u]",
+
+  "_comment2": "GIVEAWAY",
+  "congrats": "Gratulacje",
+  "poke_message": "[b]Zostałeś wylosowany i otrzymałeś [color=green]unikalną ikonę[/color]![/b]",
+  "message_who_wins": "zdobył/a unikalną ikonkę!",
+  "giveaway_start_in": "Losowanie rozpocznie się za",
+  "giveaway_started": "[b]Losowanie się rozpoczęło![/b]",
+
+  "_comment3": "MASS_ADS",
+  "ad_notify": "Sprawdź czat, wysłałem ci ciekawą wiadomość!"
+}

@@ -26,5 +26,30 @@
     "159157", "147796", "142667", "150988", "144279", "170575"],
   "levels_ids": ["1556", "1557", "1558", "1539", "1541", "1542", "1543", "1544", "1545", "1546", "1547", "1548", "1549",
     "1550", "1551", "1552", "1553", "1554"],
-  "giveaway_groups": ["1546", "1547", "1548", "1549", "1550", "1551", "1552", "1553", "1554"]
+  "giveaway_groups": ["1546", "1547", "1548", "1549", "1550", "1551", "1552", "1553", "1554"],
+  "urlop_servergroup_owner": "231",
+  "urlop_servergroup_admin": "233",
+  "urlop_suffix": "[urlop]",
+  "urlop_prefix": "[U]",
+  "normal_suffix": "",
+  "normal_prefix": "",
+
+  "_comment3": "ADMINS CHANNELS",
+  "admins":{
+    "Ayako Hitoshi": "32",
+    "MrDeuo": "33",
+    "Agent Reo": "34",
+    "NeaK": "39",
+    "Mała Kaczusia": "61177",
+    "avalage2k": "64719",
+    "Malina :D": "71859",
+    "Dr Joint": "56864",
+    "Rama": "59732",
+    "Shroudi": "71389",
+    ".acey": "72583"
+  },
+
+  "_comment4": "LANGUAGE (pl, eng)",
+  "lang": "pl"
 }
+

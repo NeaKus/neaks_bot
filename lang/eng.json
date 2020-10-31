@@ -1,0 +1,19 @@
+{
+  "_comment": "CENSURE",
+  "bad_name": "BAD NAME!",
+
+  "_comment1": "CHANNEL_ZONES",
+  "channel_prefix": "Channel",
+  "hello": "Hello",
+  "pw_message": "\nI created a channel for you, remember that if no one is in this channel, it will be [u]deleted automatically![/u]",
+
+  "_comment2": "GIVEAWAY",
+  "congrats": "Congratulations",
+  "poke_message": "[b]You were randomly selected and received a [color=green]unique icon[/color]![/b]",
+  "message_who_wins": "received unique icon!",
+  "giveaway_start_in": "Giveaway will start in",
+  "giveaway_started": "[b]The draw started![/b]",
+
+  "_comment3": "MASS_ADS",
+  "ad_notify": "Check chat, i sent you awesome message!"
+}
