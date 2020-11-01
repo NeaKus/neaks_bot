@@ -23,12 +23,12 @@ chmod +x ./main_menu
 ## Usage
 
 ```bash
-./main_menu
+./starter
 # if you want to keep alive bot or run another instance you will need screen
 apt-get install screen
 screen -dmS "INSTANCE NAME"
 screen -r "INSTANCE NAME"
-./main_menu
+./starter
 # from menu choose instance and for exit press "CTRL+A" and "D"
 ```
 
@@ -41,6 +41,18 @@ Teamspeak
 
 Discord
 ```NeaK#9340```
+
+## Functions
+```
+1. Admin schedule generator.
+2. Admin vacation checker.
+3. Admin meeting.
+4. Mass ads.
+5. Channels and nicknames censure.
+6. Channel zones.
+7. Giveaway.
+```
+
 
 ## Information
 This APP is created for specified teamspeak server so if you want to change something in source code, just contact with me.

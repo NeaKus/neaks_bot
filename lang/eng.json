@@ -5,7 +5,7 @@
   "_comment1": "CHANNEL_ZONES",
   "channel_prefix": "Channel",
   "hello": "Hello",
-  "pw_message": "\nI created a channel for you, remember that if no one is in this channel, it will be [u]deleted automatically![/u]",
+  "pw_message": "I created a channel for you, remember that if no one is in this channel, it will be [u]deleted automatically![/u]",
 
   "_comment2": "GIVEAWAY",
   "congrats": "Congratulations",
@@ -15,5 +15,15 @@
   "giveaway_started": "[b]The draw started![/b]",
 
   "_comment3": "MASS_ADS",
-  "ad_notify": "Check chat, i sent you awesome message!"
+  "ad_notify": "Check chat, i sent you awesome message!",
+
+  "_comment4": "MAIN MENU",
+  "schedule_generator": "Admin schedule generator.",
+  "vacation": "Admin vacation checker.",
+  "meeting": "Admin meeting.",
+  "ad_manager": "Mass ads.",
+  "censure": "Channels and nicknames censure.",
+  "channel_zones": "Channel zones",
+  "giveaway": "Giveaway.",
+  "exit": "Exit."
 }

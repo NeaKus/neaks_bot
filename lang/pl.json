@@ -15,5 +15,15 @@
   "giveaway_started": "[b]Losowanie się rozpoczęło![/b]",
 
   "_comment3": "MASS_ADS",
-  "ad_notify": "Sprawdź czat, wysłałem ci ciekawą wiadomość!"
+  "ad_notify": "Sprawdź czat, wysłałem ci ciekawą wiadomość!",
+
+  "_comment4": "MAIN MENU",
+  "schedule_generator": "Generator grafiku admina.",
+  "vacation": "Urlop monitoring.",
+  "meeting": "Zebranie administracji.",
+  "ad_manager": "Masowa reklama.",
+  "censure": "Cenzura kanalow i nickow.",
+  "channel_zones": "Strefy kanalow",
+  "giveaway": "Losowanie prezentu.",
+  "exit": "Wyjscie."
 }
