@@ -25,5 +25,11 @@
   "censure": "Cenzura kanalow i nickow.",
   "channel_zones": "Strefy kanalow",
   "giveaway": "Losowanie prezentu.",
-  "exit": "Wyjscie."
+  "badges": "Odznaki.",
+  "exit": "Wyjscie.",
+
+  "_comment5": "BADGES",
+  "bad_badge_code_message": "Podano niepoprawny kod!",
+  "already_have_error": "Posiadasz już tą odznakę!",
+  "bad_command": "Zła komenda! Aby dowiedzieć się jak korzystać z aplikacji wpisz [b]!help[/b]"
 }

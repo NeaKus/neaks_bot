@@ -17,7 +17,7 @@ sudo apt install software-properties-common
 mkdir ~/neaks_bot
 cd ~/neaks_bot
 git clone "https://github.com/NeaKus/neaks_bot.git" ./
-chmod +x ./main_menu
+chmod +x ./starter
 ```
 
 ## Usage
@@ -51,6 +51,7 @@ Discord
 5. Channels and nicknames censure.
 6. Channel zones.
 7. Giveaway.
+8. Badges.
 ```
 
 

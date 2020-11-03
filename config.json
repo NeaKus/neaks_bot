@@ -91,6 +91,30 @@
     "is_limited": 0
   }],
 
-  "_comment6": "LANGUAGE (pl, eng)",
+  "_comment6": "BADGES HANDLER /// if dont want addon groups just leave 0 in addon_group",
+  "badges": [{
+    "badge_code": "JTSV2",
+    "servergroupid": 233,
+    "message": "Pomyślnie nadano rangę [b]Trailer Viewer![/b]"
+  },
+  {
+    "badge_code": "JTS_LEGEND",
+    "servergroupid": 231,
+    "message": "Pomyślnie nadano rangę [b]JTS LEGENDARY![/b]"
+  },
+  {
+    "badge_code": "JTS_AUTUMN",
+    "servergroupid": 232,
+    "message": "Pomyślnie nadano rangę [b]JTS AUTUMN![/b]"
+  }],
+  "addon_groups": [{
+    "addon_group": 234
+  },{
+    "addon_group": 236
+  },{
+    "addon_group": 235
+    }],
+
+  "_comment7": "LANGUAGE (pl, eng)",
   "lang": "pl"
 }

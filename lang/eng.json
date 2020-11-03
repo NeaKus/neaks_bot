@@ -25,5 +25,11 @@
   "censure": "Channels and nicknames censure.",
   "channel_zones": "Channel zones",
   "giveaway": "Giveaway.",
-  "exit": "Exit."
+  "badges": "Badges.",
+  "exit": "Exit.",
+
+  "_comment5": "BADGES",
+  "bad_badge_code_message": "Bad badge code provided!",
+  "already_have_error": "You already have this badge!",
+  "bad_command": "Bad command! To learn how to use commands type [b]!help[/b]"
 }
