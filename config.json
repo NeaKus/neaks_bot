@@ -94,17 +94,17 @@
 
   "_comment6": "BADGES HANDLER /// if dont want addon groups just leave 0 in addon_group",
   "badges": [{
-    "badge_code": "JTSV2",
+    "badge_code": "JTSV2_TRAILERCXZ@#1",
     "servergroupid": 233,
     "message": "Pomyślnie nadano rangę [b]Trailer Viewer![/b]"
   },
   {
-    "badge_code": "JTS_LEGEND",
+    "badge_code": "JTS_LEGENDSDX%!2",
     "servergroupid": 231,
     "message": "Pomyślnie nadano rangę [b]JTS LEGENDARY![/b]"
   },
   {
-    "badge_code": "JTS_AUTUMN",
+    "badge_code": "JTS_AUTUMNSADFX@13",
     "servergroupid": 232,
     "message": "Pomyślnie nadano rangę [b]JTS AUTUMN![/b]"
   }],
@@ -116,6 +116,15 @@
     "addon_group": 235
     }],
 
-  "_comment7": "LANGUAGE (pl, eng)",
+  "_comment7": "MUSIC QUIZ",
+  "quiz_channel_id": 604403,
+  "quiz_ranking_channel": 604431,
+  "time_for_guess": 90,
+  "letters_in_hint": 6,
+  "points_for_winner": 5,
+  "music_bot_uid": "tX4d3I9Y4SGqrq5vjiIFkS4rbf8=",
+
+
+  "_comment8": "LANGUAGE (pl, eng)",
   "lang": "pl"
 }

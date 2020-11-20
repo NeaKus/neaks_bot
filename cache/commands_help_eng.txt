@@ -1,0 +1,5 @@
+
+Welcome to the app [b]NeaK's BOT[/b]!
+You will find all the commands available to you here ;)
+
+[b]!badge [code][/b] - after entering this command with the appropriate code you will receive a badge!

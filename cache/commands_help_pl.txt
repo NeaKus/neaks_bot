@@ -1,0 +1,5 @@
+
+Witaj w aplikacji [b]NeaK's BOT[/b]!
+Znajdziesz tu wszystkie dostępne dla ciebie komendy ;)
+
+[b]!badge [code][/b] - po wpisaniu tej komendy z odpowiednim kodem otrzymujesz odznake!

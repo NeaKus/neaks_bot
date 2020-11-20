@@ -1,0 +1,316 @@
+10.11.2020 18:10:36: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+10.11.2020 18:11:58: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+10.11.2020 18:14:40: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+10.11.2020 18:16:21: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+10.11.2020 18:16:52: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+10.11.2020 18:17:00: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+10.11.2020 18:17:00: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+10.11.2020 18:17:01: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:17:31: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+10.11.2020 18:17:32: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+10.11.2020 18:17:33: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:18:13: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+10.11.2020 18:18:14: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+10.11.2020 18:18:15: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:19:02: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+10.11.2020 18:19:02: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+10.11.2020 18:19:03: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:21:06: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+10.11.2020 18:21:07: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:21:54: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+10.11.2020 18:21:55: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+10.11.2020 18:21:56: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:26:51: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+10.11.2020 18:26:52: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:28:05: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+10.11.2020 18:28:06: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+10.11.2020 18:28:07: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:34:04: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+10.11.2020 18:34:10: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:34:11: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:34:14: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:34:14: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:34:16: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:34:16: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:34:17: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:34:18: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:34:19: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:34:19: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:34:26: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:34:26: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:34:39: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:34:40: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:37:15: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:37:16: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:37:21: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:37:21: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:37:25: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:37:25: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:37:38: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:37:39: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:37:46: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:39:00: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:39:00: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:39:07: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:39:08: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:39:25: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:39:25: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:39:30: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:39:30: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:39:38: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:39:38: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:39:42: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:39:43: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:39:47: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:39:47: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+10.11.2020 18:40:49: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+10.11.2020 18:40:50: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:04:26: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+18.11.2020 11:06:16: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 11:17:15: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+18.11.2020 11:18:04: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 11:18:05: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 11:18:06: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:25:41: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 11:25:41: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:31:15: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 11:31:16: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:38:01: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 11:38:02: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:38:18: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:38:18: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:38:24: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:38:25: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:39:02: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:39:02: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:39:20: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:39:20: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:39:27: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:39:27: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:39:31: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:39:32: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:39:36: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:39:36: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:39:43: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:39:44: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:39:57: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:39:57: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:40:53: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:40:53: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:42:26: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:42:27: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 11:42:33: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 11:42:34: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:23:58: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 17:23:59: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:24:04: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:24:05: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:24:10: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:24:11: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:24:17: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:24:17: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:25:10: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:25:11: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:25:15: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:25:16: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:25:19: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:25:20: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:26:41: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:26:41: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:26:46: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:26:47: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:26:50: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:26:51: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:26:55: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:26:55: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:28:11: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:28:11: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:29:10: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:29:11: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:29:15: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:29:15: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:29:18: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:29:19: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:29:22: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:29:22: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:29:26: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:29:26: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:29:28: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:29:29: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:29:31: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:29:32: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:29:34: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:29:35: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:30:20: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:30:20: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:30:24: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:30:25: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:30:27: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:30:28: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:30:30: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:38:26: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:38:27: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:38:57: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:38:58: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:39:02: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:39:02: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:39:09: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:39:10: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:39:16: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:39:17: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:40:34: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:40:35: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:40:39: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:40:39: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:40:42: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:40:43: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:40:46: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:40:47: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:55:44: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 17:55:44: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 17:55:45: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:55:47: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 17:56:44: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:56:44: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:56:54: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 17:56:55: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 17:58:41: '🌿  Jaka to melodia?🌿 BETA'# Client 'Dr Joint; quessed!. 
+18.11.2020 17:58:42: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 17:58:43: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:00:17: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:00:17: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:00:19: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:00:56: '🌿  Jaka to melodia?🌿 BETA'# Client 'Dr Joint; quessed!. 
+18.11.2020 18:00:56: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:00:57: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:01:22: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:01:22: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:01:23: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:02:28: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 18:02:29: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:02:58: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 18:02:58: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:04:11: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:04:12: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:04:13: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:04:52: '🌿  Jaka to melodia?🌿 BETA'# Client 'Dr Joint; quessed!. 
+18.11.2020 18:04:53: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:04:54: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:05:21: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:05:22: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:05:23: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:07:14: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:07:15: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:08:44: '🌿  Jaka to melodia?🌿 BETA'# Client 'Dr Joint; quessed!. 
+18.11.2020 18:08:44: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:08:45: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:09:19: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:09:20: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:09:21: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:11:19: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:11:20: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:12:25: '🌿  Jaka to melodia?🌿 BETA'# Client '.acey; quessed!. 
+18.11.2020 18:12:25: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:12:26: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:14:57: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+18.11.2020 18:15:03: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 18:15:09: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+18.11.2020 18:15:33: '🌿  Jaka to melodia?🌿 BETA'# Client 'Agent Reo; quessed!. 
+18.11.2020 18:15:33: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:15:34: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:16:29: '🌿  Jaka to melodia?🌿 BETA'# Client 'Dr Joint; quessed!. 
+18.11.2020 18:16:29: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:16:30: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:17:27: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:17:28: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:17:29: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:17:47: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+18.11.2020 18:18:40: '🌿  Jaka to melodia?🌿 BETA'# Client 'Dr Joint; quessed!. 
+18.11.2020 18:18:41: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:18:42: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:19:19: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:19:20: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:19:21: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:20:24: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 18:20:24: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:21:09: '🌿  Jaka to melodia?🌿 BETA'# Client '.acey; passed song. 
+18.11.2020 18:21:09: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:22:02: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:22:03: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:22:03: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:22:43: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:22:44: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:22:45: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:23:02: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:23:03: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:23:03: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:23:30: '🌿  Jaka to melodia?🌿 BETA'# Client 'Dr Joint; quessed!. 
+18.11.2020 18:23:31: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:23:32: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:24:10: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:24:11: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:24:12: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:25:30: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:25:30: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:25:31: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:26:30: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:26:31: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:26:31: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:27:09: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:27:10: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:27:11: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:27:27: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+18.11.2020 18:28:59: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 18:29:00: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:29:00: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:31:10: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 18:31:11: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 18:35:46: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 20:45:13: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; started music quiz. 
+18.11.2020 20:45:19: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 20:46:01: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 20:46:29: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 20:47:33: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 20:48:50: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 20:49:03: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 20:49:29: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:00:10: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:00:46: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:01:58: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:02:21: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:04:24: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:06:59: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:08:28: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:08:45: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:09:06: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:10:10: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:10:22: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:11:11: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:12:40: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:13:47: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:15:24: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:16:17: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:16:35: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:17:13: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:18:10: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:18:27: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:18:56: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:21:02: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; stopped music quiz. 
+18.11.2020 21:45:47: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 21:45:48: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  JTS🌿 NeaK's BOT1; started music quiz. 
+18.11.2020 21:45:50: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 21:45:50: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  JTS🌿 NeaK's BOT1; started music quiz. 
+18.11.2020 21:45:50: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 21:45:51: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 21:53:21: '🌿  Jaka to melodia?🌿 BETA'# Client 'Mała Kaczusia; started music quiz. 
+18.11.2020 21:56:11: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 21:56:12: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 21:57:26: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 21:57:27: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 21:59:07: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; quessed!. 
+18.11.2020 21:59:08: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 21:59:09: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 22:00:45: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; passed song. 
+18.11.2020 22:00:46: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
+18.11.2020 22:02:04: '🌿  Jaka to melodia?🌿 BETA'# Client 'NeaK; passed song. 
+18.11.2020 22:02:05: '🌿  Jaka to melodia?🌿 BETA'# Client '🌿  Jaka to melodia?🌿 BETA; started music quiz. 
