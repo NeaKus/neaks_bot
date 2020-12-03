@@ -52,7 +52,6 @@ Discord
 6. Channel zones.
 7. Giveaway.
 8. Badges.
-9. Music Quiz.
 ```
 
 

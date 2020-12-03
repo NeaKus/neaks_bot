@@ -8,12 +8,14 @@
   "nick_channels": "🌿  NeaK's BOT🌿 Channels",
   "nick_giveaway": "🌿  NeaK's BOT🌿 Giveaway",
   "nick_badge": "🌿  NeaK's BOT🌿 Badges",
+  "nick_music_quiz": "🌿  Jaka to melodia?🌿 BETA",
+  "nick_commands_handler": "🌿  NeaK's BOT🌿 Commands",
 
   "_comment1": "LOGIN TO YOUR SERVER",
-  "host": "127.0.0.1",
+  "host": "localhost",
   "port": 10011,
   "user": "serveradmin",
-  "password": "password",
+  "password": "pswd",
   "sid": "1",
 
   "_comment2": "PLUGINS CONFIG",
@@ -23,17 +25,18 @@
   "grafik_owners": ["Ayako Hitoshi", "MrDeuo", "Agent Reo"],
   "channel_urlop": "[U] NeaK [urlop]",
   "urlop_desc": "[center][img]https://ftp.jointspeak.pl/img/adminurlop.png[/img][/center]",
-  "admin_dbids": ["142398", "142397", "147330", "146052", "147358",
+  "admin_dbids": ["142398", "1578", "142397", "147330", "146052", "147358",
     "159157", "147796", "142667", "150988", "144279", "170575"],
   "levels_ids": ["1556", "1557", "1558", "1539", "1541", "1542", "1543", "1544", "1545", "1546", "1547", "1548", "1549",
     "1550", "1551", "1552", "1553", "1554"],
   "giveaway_groups": ["1546", "1547", "1548", "1549", "1550", "1551", "1552", "1553", "1554"],
-  "urlop_servergroup_owner": "231",
-  "urlop_servergroup_admin": "233",
+  "urlop_servergroup_owner": "1643",
+  "urlop_servergroup_admin": "1642",
   "urlop_suffix": "[urlop]",
   "urlop_prefix": "[U]",
   "normal_suffix": "",
   "normal_prefix": "",
+  "channel_meeting": 50385,
 
   "_comment3": "INTERVAL(minutes)",
   "censure_interval": 5,
@@ -55,6 +58,7 @@
   },
 
   "_comment5": "CHANNELS ZONE - 0 = limited, 1 = not limited",
+  "default_channel": 50522,
   "channels": [{
     "id_creating_channel": 1271,
     "id_channels_zone": 1271,
@@ -94,35 +98,32 @@
 
   "_comment6": "BADGES HANDLER /// if dont want addon groups just leave 0 in addon_group",
   "badges": [{
-    "badge_code": "JTSV2_TRAILERCXZ@#1",
-    "servergroupid": 233,
+    "badge_code": "JTSV2_TRAILER",
+    "servergroupid": 1659,
     "message": "Pomyślnie nadano rangę [b]Trailer Viewer![/b]"
   },
   {
-    "badge_code": "JTS_LEGENDSDX%!2",
-    "servergroupid": 231,
+    "badge_code": "JTS_LEGENDS",
+    "servergroupid": 1658,
     "message": "Pomyślnie nadano rangę [b]JTS LEGENDARY![/b]"
   },
   {
-    "badge_code": "JTS_AUTUMNSADFX@13",
-    "servergroupid": 232,
+    "badge_code": "JTS_AUTUMN",
+    "servergroupid": 1660,
     "message": "Pomyślnie nadano rangę [b]JTS AUTUMN![/b]"
+  },
+  {
+    "badge_code": "JTS_15lvl",
+    "servergroupid": 1661,
+    "message": "Pomyślnie nadano rangę [b]15lvl achieved![/b]"
   }],
   "addon_groups": [{
-    "addon_group": 234
+    "addon_group": 1656
   },{
-    "addon_group": 236
+    "addon_group": 1657
   },{
-    "addon_group": 235
+    "addon_group": 1662
     }],
-
-  "_comment7": "MUSIC QUIZ",
-  "quiz_channel_id": 604403,
-  "quiz_ranking_channel": 604431,
-  "time_for_guess": 90,
-  "letters_in_hint": 6,
-  "points_for_winner": 5,
-  "music_bot_uid": "tX4d3I9Y4SGqrq5vjiIFkS4rbf8=",
 
 
   "_comment8": "LANGUAGE (pl, eng)",
