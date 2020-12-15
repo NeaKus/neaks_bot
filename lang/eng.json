@@ -33,19 +33,5 @@
   "bad_badge_code_message": "Bad badge code provided!",
   "already_have_error": "You already have this badge!",
   "bad_command": "Bad command! To learn how to use commands type [b]!help[/b]",
-
-  "_comment6": "MUSIC QUIZ",
-  "desc_addon": "[center][size=17]┏━━━◥◣━━━◥◣◆◢◤━━━◢◤━━━┓",
-  "desc_addon1": "🎶🎶 Music Quiz 🎶🎶",
-  "desc_addon2": "🎶🏆🏆 Top 10 🏆🏆🎶",
-  "desc_addon3": "┗━━━◢◤━━━◢◤◆◥◣━━━◥◣━━━┛[/size]",
-  "want_to_stop": "If you want to end type [b]?stop[/b]",
-  "end_message": "Thanks for game! If you want to resume type [b]?start[/b]",
-  "guessed": "quessed!",
-  "you_so_close": "You are so close!",
-  "hint_notify": "30 seconds left!",
-  "hint_message": "The first letters of the full title are",
-  "what_played": "We played",
-  "no_one_guessed": "No one could guess :( If you want to end the game type [b]?stop[/b]",
-  "help_notify": "To find out how the application works type [b]?help[/b]"
+  "limit_reached": "The usage limit for this code has been reached!"
 }

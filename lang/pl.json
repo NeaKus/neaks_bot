@@ -33,19 +33,5 @@
   "bad_badge_code_message": "Podano niepoprawny kod!",
   "already_have_error": "Posiadasz już tą odznakę!",
   "bad_command": "Zła komenda! Aby dowiedzieć się jak korzystać z aplikacji wpisz [b]!help[/b]",
-
-  "_comment6": "MUSIC QUIZ",
-  "desc_addon": "[center][size=17]┏━━━◥◣━━━◥◣◆◢◤━━━◢◤━━━┓",
-  "desc_addon1": "🎶🎶 Jaka to melodia? 🎶🎶",
-  "desc_addon2": "🎶🏆🏆 Top 10 🏆🏆🎶",
-  "desc_addon3": "┗━━━◢◤━━━◢◤◆◥◣━━━◥◣━━━┛[/size]",
-  "want_to_stop": "Jeśli chcesz zakończyć gre wpisz ?stop",
-  "end_message": "Dzięki za wspólną zabawę! Jeśli chcesz ją wznowić wpisz ?start",
-  "guessed": "odgadł!",
-  "you_so_close": "Dobry trop!",
-  "hint_notify": "Zostało 30 sekund! Wiem, że to znacie, ale mała podpowiedź ode mnie ;)",
-  "hint_message": "Pierwsze litery pełnego tytułu to",
-  "what_played": "Graliśmy",
-  "no_one_guessed": "Niestety nikomu nie udało się odgadnąć :( Lecimy dalej! Jeśli chcesz zakończyć grę wpisz ?stop",
-  "help_notify": "Aby dowiedzieć się jak działa aplikacja wpisz [b]?help[/b]"
+  "limit_reached": "Osiągnięto limit użycia tego kodu!"
 }

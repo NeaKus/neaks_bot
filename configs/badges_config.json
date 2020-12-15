@@ -1,0 +1,44 @@
+{
+    "_comment": "BADGES HANDLER /// if dont want addon groups just leave 0 in addon_group",
+    "badges": [
+        {
+            "badge_code": "JTSV2_TRAILER",
+            "servergroupid": 1659,
+            "message": "Pomyślnie nadano rangę [b]Trailer Viewer![/b]"
+        },
+        {
+            "badge_code": "JTS_LEGEND",
+            "servergroupid": 1658,
+            "message": "Pomyślnie nadano rangę [b]JTS LEGENDARY![/b]"
+        },
+        {
+            "badge_code": "JTS_AUTUMN",
+            "servergroupid": 1660,
+            "message": "Pomyślnie nadano rangę [b]JTS AUTUMN![/b]"
+        },
+        {
+            "badge_code": "JTS_15lvl",
+            "servergroupid": 1661,
+            "message": "Pomyślnie nadano rangę [b]15lvl achieved![/b]"
+        },
+        {
+            "badge_code": "JTS_WINTERSFXZC#@1",
+            "servergroupid": 1665,
+            "message": "Pomyślnie nadano rangę [b]JTS WINTER![/b]"
+        }
+    ],
+    "type_to_reset_counter": "!restart_magiczny_neak",
+    "count_legend": 3,
+    "limited_servergroup_id": 1658,
+    "addon_groups": [
+        {
+            "addon_group": 1656
+        },
+        {
+            "addon_group": 1657
+        },
+        {
+            "addon_group": 1662
+        }
+    ]
+}
