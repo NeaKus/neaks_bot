@@ -27,9 +27,10 @@
             "message": "Pomyślnie nadano rangę [b]JTS WINTER![/b]"
         }
     ],
-    "type_to_reset_counter": "!restart_magiczny_neak",
+    "type_to_reset_counter": "!aezakmi",
     "count_legend": 3,
     "limited_servergroup_id": 1658,
+    "usage_limit": 5,
     "addon_groups": [
         {
             "addon_group": 1656
